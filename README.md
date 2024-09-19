@@ -1,6 +1,3 @@
-Here's a description for the **Hotel Booking System** project for your GitHub README:
-
----
 
 # Hotel Booking System
 
